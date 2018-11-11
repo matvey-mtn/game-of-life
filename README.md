@@ -14,7 +14,7 @@ Run the following command in order to build sources and package jar: `gradle cle
 ## How to Use?
 
 Go to the ./build/libs folder and run `java -jar game-of-life.jar`. 
-You will see the available arguments to use. 
+You will see all of the available arguments. 
 
 To start the game run `java -jar game-of-life.jar --start --capacity=10 --iterations=100`. 
 This command will crate a random 10x10 board with randomly populated cells and run 100 iterations of the game.
